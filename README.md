@@ -1,11 +1,3 @@
-# Sejam bem vindos ao Labe-commerce.
+#  Teste
 
-### Ultilizamos: 
-React para a construção
-
-## Criadores
-
-Rick
-
-
-link do site.
+## Repositorio para testes
