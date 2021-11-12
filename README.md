@@ -1,9 +1,9 @@
-Sejam bem vindos ao Labe-commerce.
+# Sejam bem vindos ao Labe-commerce.
 
-##Ultilizamos:
+### Ultilizamos: 
 React para a construção
 
-##Criadores
+## Criadores
 
 Rick
 
