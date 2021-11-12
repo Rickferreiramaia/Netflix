@@ -1,4 +1,4 @@
-#`Sejam bem vindos ao Labe-commerce.
+Sejam bem vindos ao Labe-commerce.
 
 ##Ultilizamos:
 React para a construção
@@ -8,4 +8,4 @@ React para a construção
 Rick
 
 
-link do site.`
+link do site.
