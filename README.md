@@ -1,3 +1,9 @@
+
+## Projeto  Netflix
+https://sparkling-mouth.surge.sh/
+
+
+
 ![Capturar](https://user-images.githubusercontent.com/91157487/154580183-093b4398-a930-41ce-9895-870384d1294d.JPG)
 
 
@@ -71,6 +77,3 @@ $ git clone https://github.com/Rickferreiramaia/Projetos.git
     <b> <i> Copyright (c) 2021 Riclecio Ferreira Maia </i> </b>
 </p>
  
-
-## Projeto  Netflix
-https://sparkling-mouth.surge.sh/
